@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @tuandu2k6
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Tuấn Du
+- 👀 Tôi rất thích nghành CNTT
+- 🌱 Tôi luôn cố gắng cải thiện kĩ năng
+- 💞️ Chinh phục ..!
+- 📫 Hjhj
 
 <!---
 tuandu2k6/tuandu2k6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
